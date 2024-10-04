@@ -19,7 +19,7 @@ I will occasionally upload resolutions of exercises i do
 I also have experience using Photoshop and creating pixel art<br>
 Currently interested in learning HTML
 
-<p align = "center"><img src= ryu-Hadouken.gif width= 200 align= left> <img src= "killer instinct 02-01-2020 01-04-49.png" width= 200 align= left </p><br><br><br><br><br><br><br><br>
+<p align = "center"><img src= ryu-Hadouken.gif width= 200 align= left> <img src= "killer instinct 02-01-2020 01-04-49.png" width= 200 align= left </p><br><br><br><br><br><br><br><br><br>
 
 
 ### Reach me: lucagerace@hotmail.com 
