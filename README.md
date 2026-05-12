@@ -12,9 +12,16 @@ I will occasionally upload resolutions of exercises i do
 
 **Languages:**
 
-<p align = left > <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
-<a href= "https://git-scm.com/" target= "_blank" rel="noreferrer"> <img src= "https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="git" width="40" height="40"/> </a> </p>
+<p align = left > 
+  <a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="50" height="50"/></a>
+  <a href= "https://www.open-std.org/jtc1/sc22/wg14/" target= "_blank" rel="noreferrer"><img src= "https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original" alt="C" width="50" height="50"/></a>
+  <a href= "https://git-scm.com/" target= "_blank" rel="noreferrer"><img src= "https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="git" width="50" height="50"/></a>
+  https://www.open-std.org/jtc1/sc22/wg14/<a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/></a> 
+  <a href= "/" target= "_blank" rel="noreferrer"><img src= "https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original" alt="HTML 5" width="50" height="50"/></a>
+  <a href= "/" target= "_blank" rel="noreferrer"><img src= "https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original" alt="CSS 3" width="50" height="50"/></a>
+  <a href= "https://getbootstrap.com/" target= "_blank" rel="noreferrer"><img src= "https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original" alt="Bootstrap" width="50" height="50"/></a>
+  <a href= "https://vuejs.org/" target= "_blank" rel="noreferrer"><img src= "https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original" alt="vue" width="50" height="50"/></a>
+</p>
 
 I also have experience using Photoshop and creating pixel art<br>
 Currently interested in learning HTML
